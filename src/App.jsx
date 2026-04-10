@@ -99,7 +99,11 @@ export default function App() {
           {ALGOS.map(algo => {
             const active = activeAlgo === algo.id;
             return (
-              <button key={algo.id} onClick={() => setActiveAlgo(algo.id)} style={{
+              <button key={algo.id} onClick={() => {
+                   if (activeAlgo !== algo.id) {
+                      setActiveAlgo(algo.id);
+                    }
+              }} style={{
                 background: active ? 'var(--orange)' : 'transparent',
                 color:      active ? '#fff' : 'var(--text2)',
                 border:     'none',
