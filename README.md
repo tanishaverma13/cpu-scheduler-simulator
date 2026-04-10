@@ -79,7 +79,7 @@ The simulator:
 ## 🛠️ Setup & Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cpu-scheduler-simulator.git
+git clone https://github.com/tanishaverma13/cpu-scheduler-simulator.git
 cd cpu-scheduler-simulator
 npm install
 npm run dev
