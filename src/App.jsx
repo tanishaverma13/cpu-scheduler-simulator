@@ -104,7 +104,7 @@ export default function App() {
                       setActiveAlgo(algo.id);
                     }
               }} style={{
-                background: active ? 'var(--orange)' : 'transparent',
+                background: active ? 'var(--orange)' : '#1a1a1a',
                 color:      active ? '#fff' : 'var(--text2)',
                 border:     'none',
                 borderRadius: 10,
