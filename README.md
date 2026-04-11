@@ -3,7 +3,7 @@
 An interactive, visual CPU scheduling simulator built with **React + Vite**. Supports four scheduling algorithms with animated Gantt charts, detailed performance metrics, algorithm comparison, and CSV export.
 
 ## 🚀 Live Demo
-> Coming soon
+🔗 https://cpu-scheduler-simulator-three.vercel.app/
 
 ---
 
