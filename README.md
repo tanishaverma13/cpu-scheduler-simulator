@@ -131,7 +131,7 @@ cpu-scheduler-simulator/
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🛠️ Tech Stack
 
 **React 18** · **Vite 6** · **Tailwind CSS v4** · Pure JS scheduling logic
 
@@ -144,3 +144,6 @@ cpu-scheduler-simulator/
 Built as part of Operating Systems learning and extended into a full interactive visualization tool.
 
 ---
+
+
+⭐ If you found this project useful, please consider giving it a star!
