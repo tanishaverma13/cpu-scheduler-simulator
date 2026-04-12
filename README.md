@@ -131,7 +131,7 @@ cpu-scheduler-simulator/
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **React 18** · **Vite 6** · **Tailwind CSS v4** · Pure JS scheduling logic
 
